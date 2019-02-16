@@ -9,7 +9,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
 	name='conf2yaml',
-	version='0.0.1',
+	version='0.0.2',
 	description="It's a Network configuration parser, which translates the show outputs",
 	long_description = long_description,
 	long_description_content_type = 'text/markdown',
